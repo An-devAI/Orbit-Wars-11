@@ -1,6 +1,9 @@
 # Orbit Wars
 
-Dự án này phát triển một AI agent cho cuộc thi Orbit Wars trên Kaggle.
+Dự án này phát triển một AI agent cho cuộc thi Orbit Wars trên Kaggle. Trong đó
+
+- Nhánh working để chạy, test, debug Agent
+- Nhánh An lưu trữ các version của Agent
 
 ## Tổng quan về Orbit Wars
 
@@ -43,7 +46,7 @@ pip install -r requirements.txt
 python record_match.py
 ```
 
-![alt text](image.png)
+![Replay Demo](image.png)
 
 - Thay vì mặc định giống các code getting started đã được public của kaggle, code hiện tại sẽ render id của các hành tinh, log thực thi được lưu qua bot_debug.log để có thể debug, hiểu cơ chế vận hành của agent hiện tại.
 
