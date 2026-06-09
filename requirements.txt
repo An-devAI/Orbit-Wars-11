@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+shimmy
+kaggle-environments>=1.28.0
+numpy
+pygame
+tensorboard
