@@ -1,8 +1,8 @@
-## Môn học
+# Môn học
 
 Học phần: Học tăng cường – Học kỳ 6 (2025–2026)  
 Trường Đại học Công nghệ, ĐHQGHN
-# Orbit Wars – Nhóm 11
+## Orbit Wars – Nhóm 11
 **Thành viên:**
 - Nguyễn Trường An (23020323) 
 - Hoàng Ngọc Điệp (23020357) 
